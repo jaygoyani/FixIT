@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "425309160931",
+    "project_id": "fix-it-96b99",
+    "storage_bucket": "fix-it-96b99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425309160931:android:64d98be32c53623b254cd6",
+        "android_client_info": {
+          "package_name": "com.android.fixit.debug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425309160931-k6pp4a5i3j9ei91nrao9u67oi2a61pea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiDFxhucf7kXTWFqJw4yfESJLZKGvwQ0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425309160931-k6pp4a5i3j9ei91nrao9u67oi2a61pea.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425309160931:android:3c120802edc02987254cd6",
+        "android_client_info": {
+          "package_name": "com.android.fixit.release"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425309160931-n4otc5o0mq5knp9kb6geo91uru7bd5sa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.fixit.release",
+            "certificate_hash": "50c679ce5254b8a89ca3659db34a58131c11c1e6"
+          }
+        },
+        {
+          "client_id": "425309160931-k6pp4a5i3j9ei91nrao9u67oi2a61pea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiDFxhucf7kXTWFqJw4yfESJLZKGvwQ0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425309160931-k6pp4a5i3j9ei91nrao9u67oi2a61pea.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
